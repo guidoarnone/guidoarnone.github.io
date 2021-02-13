@@ -7,7 +7,9 @@ math = true          # enable KaTeX (https://katex.org/) globally
 googleAnalytics = ""  # add your tracking id
 
 [params]
-  favicon = "icon_g.png"  # path to a .ico to use as favicon
+  author = "Olivier Roques"
+  description = "A simple monospaced resume theme for Hugo."
+  favicon = "favicon.ico"  # path to a .ico to use as favicon
   logo = ""  # url or path to a logo to put in the header
   [params.footer]
     text = ""
